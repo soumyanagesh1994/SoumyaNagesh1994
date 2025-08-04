@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoumyaNagesh1994
+- 👋 Hi, I’m @soumyanagesh1994
 - 👀 I’m interested in anything and everything related to Bioinformatics.
 - 🌱 I’m currently learning and interested in Single cell analysis
 - 💞️ I’m looking to collaborate on a lot more Single cell related packages.
