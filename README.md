@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @soumyanagesh1994
+- 👋 Hi, I’m Soumya Nagesh
 - 👀 I’m interested in anything and everything related to Bioinformatics.
-- 📫 This github account was created as a workspace for me to store all my work and interests pertaining Bioinformatics.
+- 📫 This github account was created as a workspace for my projects and work.
+
+Below you can find the quick links to the respositories/projects I worked on: 
+
 
 <!---
 SoumyaNagesh1994/SoumyaNagesh1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
